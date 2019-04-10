@@ -45,7 +45,7 @@ void setup()
     p = append_str(p, "\r\n");
     json_start = p;
     p = append_str(p, "{\"value1\":\"");
-    p = append_str(p, "918920970945");
+    p = append_str(p, "91892097xxxx");
     p = append_str(p, "\",\"value2\":\"");
     p = append_str(p, "YOUR MESSAGE HERE");   
     p = append_str(p, "\",\"value3\":\"");
